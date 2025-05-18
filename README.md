@@ -33,7 +33,7 @@ Analyze e-commerce return data to identify high-risk products and reduce return 
 - Visualizations of return patterns
 
 ### Tools Used:
-- Python (Pandas, Seaborn)
+- Python (Pandas)
 - Power BI (dashboard)
 - SQL (for database version)
 
