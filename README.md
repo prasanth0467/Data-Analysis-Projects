@@ -36,6 +36,9 @@ Analyze e-commerce return data to identify high-risk products and reduce return 
 - Python (Pandas)
 - Power BI (dashboard)
 - SQL (for database version)
+  
+### Author 
+Majji Prasanth Reddy 
 
 ---
 
