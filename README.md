@@ -37,7 +37,7 @@ Analyze e-commerce return data to identify high-risk products and reduce return 
 - Power BI (dashboard)
 - SQL (for database version)
   
-### Author 
+### Author:
 Majji Prasanth Reddy 
 
 ---
